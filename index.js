@@ -19,10 +19,12 @@ parse.us =
 parse.microsecond = 1 / 1e3
 
 parse.millisecond =
+parse.milliseconde =
 parse.ms =
 parse[''] = 1
 
 parse.second =
+parse.seconde =
 parse.sec =
 parse.s = parse.ms * 1000
 
@@ -31,21 +33,26 @@ parse.min =
 parse.m = parse.s * 60
 
 parse.hour =
+parse.heure =
 parse.hr =
 parse.h = parse.m * 60
 
 parse.day =
+parse.jour =
 parse.d = parse.h * 24
 
 parse.week =
+parse.semaine =
 parse.wk =
 parse.w = parse.d * 7
 
 parse.month =
+parse.moi =
 parse.b =
 parse.d * (365.25 / 12)
 
 parse.year =
+parse.an =
 parse.yr =
 parse.y = parse.d * 365.25
 
